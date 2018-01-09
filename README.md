@@ -1,6 +1,6 @@
-# enzyme-example-jest
+# jest-enzyme
 
-Example project with React + Enzyme + Jest
+project with React + Enzyme + Jest
 
 ## Install
 
@@ -10,8 +10,3 @@ Example project with React + Enzyme + Jest
 ## Run Tests
 
         npm test
-        
-## Credits
-
-The original example, written by Leland Richardson, can be found at [https://github.com/lelandrichardson/enzyme-example-jest](https://github.com/lelandrichardson/enzyme-example-jest).
-
